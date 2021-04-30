@@ -24,7 +24,7 @@ their data warehouse to a data lake.<br/>
 7. Compare results with expected results of the analytics team.<br/>
 
 ## Schema Design
-![](https://github.com/daranha1/DataEng-Data-Lake/blob/main/images/Star-Schema-Design-Data-Lake.png)
+![](https://github.com/daranha1/DataEng-Data-Lake/blob/main/images/Star-Schema-Design-Data-Lake.PNG)
 
 ## Project Datasets
 | Data               | Location                     |
